@@ -332,7 +332,7 @@ void Game::run() {
 			}
 
 			//spawnHawkHere
-			if (currentScore > 5) {
+			if (currentScore > 30) {
 				if(!hawkAttack && !gameOver)
 				showHawkMeter(getDriver(), hawkDelta);
 				if (hawkSpawned == false) {
