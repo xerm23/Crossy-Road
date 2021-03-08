@@ -1,0 +1,502 @@
+﻿  Game.cpp
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GameObject.h(61,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=irr::f32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GameObject.h(65,90): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=irr::f32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(28,67): warning C4244: '=': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=irr::u32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(29,68): warning C4244: '=': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=irr::u32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(151,68): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(151,55): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(154,102): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(154,89): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(165,46): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(165,22): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(164,54): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(164,30): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(179,48): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(179,24): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(178,54): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(178,30): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(193,48): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(193,24): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(192,54): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(192,30): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(208,40): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(208,16): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(207,40): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(207,16): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(219,39): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(219,16): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(218,40): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(218,16): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(230,40): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(230,16): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(229,40): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(229,16): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(243,102): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(243,89): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(253,102): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(253,89): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\Game.h(83,22): warning C4244: 'initializing': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=irr::u32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\Game.h(84,51): warning C4244: 'argument': conversion from 'float' to 'irr::u32', possible loss of data
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\Game.h(84,39): warning C4244: 'argument': conversion from 'float' to 'irr::u32', possible loss of data
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\Game.h(84,113): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\Game.h(84,94): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\Game.h(84,86): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\Game.h(85,84): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\Game.h(85,61): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\Game.cpp(54,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=irr::f32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\Game.cpp(55,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=irr::f32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\Game.cpp(62,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=irr::f32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\Game.cpp(67,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=irr::f32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\Game.cpp(77,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=irr::f32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\Game.cpp(143,22): warning C4018: '<': signed/unsigned mismatch
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\Game.cpp(156,23): warning C4018: '<': signed/unsigned mismatch
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\Game.cpp(221,90): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=irr::f32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\Game.cpp(350,55): warning C4244: 'argument': conversion from 'int' to 'irrklang::ik_f32', possible loss of data
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\Game.cpp(353,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  GameObject.cpp
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GameObject.h(61,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=irr::f32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GameObject.h(65,90): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=irr::f32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GameObject.cpp(27,41): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=irr::f32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GameObject.cpp(68,112): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=irr::f32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GameObject.cpp(129,79): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GameObject.cpp(131,19): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GameObject.cpp(154,71): warning C4244: 'argument': conversion from 'float' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=unsigned int
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GameObject.cpp(155,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GameObject.cpp(159,67): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=irr::f32
+          ]
+  main.cpp
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GameObject.h(61,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=irr::f32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GameObject.h(65,90): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=irr::f32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(28,67): warning C4244: '=': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=irr::u32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(29,68): warning C4244: '=': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=irr::u32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(151,68): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(151,55): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(154,102): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(154,89): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(165,46): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(165,22): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(164,54): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(164,30): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(179,48): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(179,24): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(178,54): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(178,30): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(193,48): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(193,24): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(192,54): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(192,30): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(208,40): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(208,16): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(207,40): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(207,16): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(219,39): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(219,16): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(218,40): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(218,16): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(230,40): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(230,16): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(229,40): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(229,16): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(243,102): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(243,89): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(253,102): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(253,89): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\Game.h(83,22): warning C4244: 'initializing': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=irr::u32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\Game.h(84,51): warning C4244: 'argument': conversion from 'float' to 'irr::u32', possible loss of data
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\Game.h(84,39): warning C4244: 'argument': conversion from 'float' to 'irr::u32', possible loss of data
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\Game.h(84,113): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\Game.h(84,94): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\Game.h(84,86): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\Game.h(85,84): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\Game.h(85,61): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+  Generating Code...
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(106): warning C4715: 'GUIController::getSound': not all control paths return a value
+D:\FAKS\CS370\Crossy Road\CS370-PZ\CS370-PZ\src\GUIController.h(106): warning C4715: 'GUIController::getSound': not all control paths return a value
+  CS370-PZ.vcxproj -> D:\FAKS\CS370\Crossy Road\CS370-PZ\Debug\CS370-PZ.exe

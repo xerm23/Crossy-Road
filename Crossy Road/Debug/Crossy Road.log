@@ -1,0 +1,465 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (CS370-PZ.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Game.cpp
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GameObject.h(61,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=irr::f32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GameObject.h(65,90): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=irr::f32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(28,67): warning C4244: '=': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=irr::u32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(29,68): warning C4244: '=': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=irr::u32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(151,68): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(151,55): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(154,102): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(154,89): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(165,46): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(165,22): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(164,54): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(164,30): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(179,48): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(179,24): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(178,54): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(178,30): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(193,48): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(193,24): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(192,54): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(192,30): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(208,40): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(208,16): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(207,40): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(207,16): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(219,39): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(219,16): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(218,40): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(218,16): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(230,40): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(230,16): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(229,40): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(229,16): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(243,102): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(243,89): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(253,102): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(253,89): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\Game.h(83,22): warning C4244: 'initializing': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=irr::u32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\Game.h(84,51): warning C4244: 'argument': conversion from 'float' to 'irr::u32', possible loss of data
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\Game.h(84,39): warning C4244: 'argument': conversion from 'float' to 'irr::u32', possible loss of data
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\Game.h(84,113): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\Game.h(84,94): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\Game.h(84,86): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\Game.h(85,84): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\Game.h(85,61): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\Game.cpp(54,57): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=irr::f32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\Game.cpp(55,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=irr::f32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\Game.cpp(62,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=irr::f32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\Game.cpp(67,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=irr::f32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\Game.cpp(77,58): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=irr::f32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\Game.cpp(146,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\Game.cpp(159,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\Game.cpp(224,90): warning C4244: 'argument': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=irr::f32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\Game.cpp(353,55): warning C4244: 'argument': conversion from 'int' to 'irrklang::ik_f32', possible loss of data
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\Game.cpp(356,59): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  main.cpp
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GameObject.h(61,31): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=irr::f32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GameObject.h(65,90): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=irr::f32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(28,67): warning C4244: '=': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=irr::u32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(29,68): warning C4244: '=': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=irr::u32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(151,68): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(151,55): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(154,102): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(154,89): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(165,46): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(165,22): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(164,54): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(164,30): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(179,48): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(179,24): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(178,54): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(178,30): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(193,48): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(193,24): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(192,54): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(192,30): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(208,40): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(208,16): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(207,40): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(207,16): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(219,39): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(219,16): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(218,40): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(218,16): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(230,40): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(230,16): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(229,40): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(229,16): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(243,102): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(243,89): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(253,102): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(253,89): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\Game.h(83,22): warning C4244: 'initializing': conversion from 'const T' to 'float', possible loss of data
+          with
+          [
+              T=irr::u32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\Game.h(84,51): warning C4244: 'argument': conversion from 'float' to 'irr::u32', possible loss of data
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\Game.h(84,39): warning C4244: 'argument': conversion from 'float' to 'irr::u32', possible loss of data
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\Game.h(84,113): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\Game.h(84,94): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\Game.h(84,86): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\Game.h(85,84): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\Game.h(85,61): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=irr::s32
+          ]
+  Generating Code...
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(106): warning C4715: 'GUIController::getSound': not all control paths return a value
+C:\Users\Milan\source\repos\Crossy Road\Crossy Road\src\GUIController.h(106): warning C4715: 'GUIController::getSound': not all control paths return a value
+  Crossy Road.vcxproj -> C:\Users\Milan\source\repos\Crossy Road\Debug\Crossy Road.exe
